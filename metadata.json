@@ -1,0 +1,6 @@
+{
+  "name": "চট্টগ্রাম বাস রুট",
+  "description": "চট্টগ্রাম শহরের সকল বাস রুট, স্টপেজ ও যাত্রা পরিকল্পনার মোবাইল ফ্রেন্ডলি অ্যাপ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
